@@ -1,0 +1,2 @@
+! Title: Adblock Filters (personal)
+@@||onesignal.com^$domain=clash.ninja
